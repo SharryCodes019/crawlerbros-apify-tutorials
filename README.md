@@ -28,6 +28,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Facebook Search Scraper](facebook-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-search-scraper)
 - [FlashScore Live Sports Scraper](flashscore-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flashscore-scraper)
 - [Fragrantica Perfume Scraper](fragrantica-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fragrantica-scraper)
+- [G2.com Scraper](g2-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/g2-scraper)
 - [GetYourGuide Tours & Activities Scraper](getyourguide-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/getyourguide-scraper)
 - [Glassdoor Jobs Scraper](glassdoor-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/glassdoor-jobs-scraper)
 - [Google Ads Scraper](google-ads-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/google-ads-scraper)
