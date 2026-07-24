@@ -60,6 +60,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Instagram Transcript Scraper](instagram-transcript-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-transcript-scraper)
 - [Kleinanzeigen Scraper](kleinanzeigen-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/kleinanzeigen-scraper)
 - [Lead Finder](lead-finder-tutorial/) - [Apify](https://apify.com/crawlerbros/lead-finder)
+- [Leboncoin Classifieds Scraper](leboncoin-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/leboncoin-scraper)
 - [Linkedin Jobs Scraper](linkedin-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-jobs-scraper)
 - [LinkedIn Profile Scraper Pro](linkedin-profile-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-profile-scraper-pro)
 - [Linkedin Profile Scraper](linkedin-profile-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-profile-scraper)
