@@ -121,6 +121,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Wellfound (AngelList) Jobs Scraper](wellfound-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/wellfound-scraper)
 - [We Work Remotely Jobs Scraper](weworkremotely-job-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/weworkremotely-job-scraper)
 - [Workday Jobs Scraper](workday-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/workday-jobs-scraper)
+- [Yandex Search Scraper](yandex-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/yandex-search-scraper)
 - [Yelp Scraper](yelp-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/yelp-scraper)
 - [Youtube Channel Scraper](youtube-channel-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-channel-scraper)
 - [Youtube Comment Scraper](youtube-comment-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-comment-scraper)
