@@ -14,6 +14,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Bayt.com Middle East Jobs Scraper](bayt-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bayt-jobs-scraper)
 - [Better Business Bureau Scraper](bbb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bbb-scraper)
 - [Behance + Dribbble Scraper](behance-dribbble-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/behance-dribbble-scraper)
+- [Best Buy Scraper](bestbuy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bestbuy-scraper)
 - [BizBuySell Scraper](bizbuysell-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bizbuysell-scraper)
 - [Clutch.co B2B Agency Scraper](clutch-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/clutch-scraper)
 - [Company Domain & Social Links Finder](company-domain-tutorial/) - [Apify](https://apify.com/crawlerbros/company-domain)
