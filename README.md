@@ -92,6 +92,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Reddit Video Downloader](reddit-video-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-video-downloader)
 - [Website Screenshot Generator](screenshot-url-tutorial/) - [Apify](https://apify.com/crawlerbros/screenshot-url)
 - [SEMrush Free Website Stats Scraper](semrush-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/semrush-scraper)
+- [Shein Product Scraper](shein-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/shein-scraper)
 - [Sherlock Scraper](sherlock-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/sherlock-scraper)
 - [Similarweb Scraper](similarweb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/similarweb-scraper)
 - [Snapchat Hashtag Scraper](snapchat-hashtag-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-hashtag-scraper)
