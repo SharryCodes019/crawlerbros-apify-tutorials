@@ -5,6 +5,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 ## Tutorials
 
 - [2GIS Places Scraper](2gis-places-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/2gis-places-scraper)
+- [Acquire.com Startup Marketplace Scraper](acquire-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/acquire-scraper)
 - [Ahrefs Free Website Stats Scraper](ahrefs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/ahrefs-scraper)
 - [Airbnb Scraper](airbnb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/airbnb-scraper)
 - [AliExpress Scraper](aliexpress-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/aliexpress-scraper)
