@@ -116,6 +116,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Trustpilot Review Scraper](trustpilot-review-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/trustpilot-review-scraper)
 - [Twitter Keywords Scraper](twitter-keywords-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/twitter-keywords-scraper)
 - [Twitter Profile Scraper](twitter-profile-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/twitter-profile-scraper)
+- [Twitter Video Downloader](twitter-video-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/twitter-video-downloader)
 - [Website Links Graph Generator](web-link-graph-visualizer-tutorial/) - [Apify](https://apify.com/crawlerbros/web-link-graph-visualizer)
 - [Website Content Crawler](website-content-crawler-tutorial/) - [Apify](https://apify.com/crawlerbros/website-content-crawler)
 - [Website Image Scraper](website-image-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/website-image-scraper)
