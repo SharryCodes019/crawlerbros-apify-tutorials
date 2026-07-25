@@ -104,6 +104,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [TikTok Transcript Scraper](tiktok-transcript-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-transcript-scraper)
 - [TradingView Scraper](tradingview-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tradingview-scraper)
 - [Traffic Generator](traffic-generator-tutorial/) - [Apify](https://apify.com/crawlerbros/traffic-generator)
+- [Tripadvisor Reviews Scraper](tripadvisor-reviews-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tripadvisor-reviews-scraper)
 - [Tripadvisor Scraper](tripadvisor-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tripadvisor-scraper)
 - [Trustpilot Review Scraper](trustpilot-review-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/trustpilot-review-scraper)
 - [Twitter Keywords Scraper](twitter-keywords-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/twitter-keywords-scraper)
