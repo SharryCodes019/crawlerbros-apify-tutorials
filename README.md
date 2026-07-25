@@ -20,6 +20,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Company Domain & Social Links Finder](company-domain-tutorial/) - [Apify](https://apify.com/crawlerbros/company-domain)
 - [Crexi Real Estate Scraper](crexi-real-estate-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/crexi-real-estate-scraper)
 - [Darkweb Scraper](darkweb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/darkweb-scraper)
+- [DoorDash Restaurant Scraper](doordash-restaurant-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/doordash-restaurant-scraper)
 - [Dubizzle Listings Scraper (Unofficial)](dubizzle-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/dubizzle-scraper)
 - [EBAY | Single Item | Store | Store Categories](ebay-item-store-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/ebay-item-store-scraper)
 - [ESPN News](espn-news-tutorial/) - [Apify](https://apify.com/crawlerbros/espn-news)
