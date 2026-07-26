@@ -16,6 +16,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Behance + Dribbble Scraper](behance-dribbble-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/behance-dribbble-scraper)
 - [Best Buy Scraper](bestbuy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bestbuy-scraper)
 - [BizBuySell Scraper](bizbuysell-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bizbuysell-scraper)
+- [Booking.com Hotel Scraper](booking-hotel-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/booking-hotel-scraper)
 - [Clutch.co B2B Agency Scraper](clutch-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/clutch-scraper)
 - [Company Domain & Social Links Finder](company-domain-tutorial/) - [Apify](https://apify.com/crawlerbros/company-domain)
 - [Crexi Real Estate Scraper](crexi-real-estate-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/crexi-real-estate-scraper)
