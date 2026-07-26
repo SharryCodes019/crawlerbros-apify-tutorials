@@ -34,6 +34,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Facebook Events Scraper](facebook-events-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-events-scraper)
 - [Facebook Marketplace Scraper](facebook-marketplace-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-marketplace-scraper)
 - [Facebook Pages Scraper](facebook-pages-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-pages-scraper)
+- [Facebook Photos Scraper](facebook-photos-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-photos-scraper)
 - [Facebook Search Scraper](facebook-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-search-scraper)
 - [FlashScore Live Sports Scraper](flashscore-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flashscore-scraper)
 - [Fragrantica Perfume Scraper](fragrantica-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fragrantica-scraper)
