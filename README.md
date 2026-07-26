@@ -144,6 +144,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Zillow Property Scraper](zillow-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/zillow-scraper)
 - [ZipRecruiter Jobs Scraper Pro](ziprecruiter-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/ziprecruiter-scraper-pro)
 - [ZipRecruiter Jobs Scraper](ziprecruiter-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/ziprecruiter-scraper)
+- [Zomato Scraper](zomato-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/zomato-scraper)
 - [ZonaProp Scraper](zonaprop-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/zonaprop-scraper)
 
 ## Links
