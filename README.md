@@ -90,6 +90,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [OSINT Scraper](osint-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/osint-scraper)
 - [Patreon Scraper](patreon-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/patreon-scraper)
 - [Pinterest Data Extractor](pinterest-data-extractor-tutorial/) - [Apify](https://apify.com/crawlerbros/pinterest-data-extractor)
+- [Pinterest Media Downloader](pinterest-media-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/pinterest-media-downloader)
 - [PitchBook Investors Scraper](pitchbook-investors-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/pitchbook-investors-scraper)
 - [PromptBase Scraper](promptbase-tutorial/) - [Apify](https://apify.com/crawlerbros/PromptBase)
 - [Property Finder Scraper](propertyfinder-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/propertyfinder-scraper)
