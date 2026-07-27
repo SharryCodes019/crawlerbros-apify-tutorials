@@ -95,6 +95,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Pinterest Data Extractor](pinterest-data-extractor-tutorial/) - [Apify](https://apify.com/crawlerbros/pinterest-data-extractor)
 - [Pinterest Media Downloader](pinterest-media-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/pinterest-media-downloader)
 - [PitchBook Investors Scraper](pitchbook-investors-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/pitchbook-investors-scraper)
+- [Polymarket Prediction Market Scraper](polymarket-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/polymarket-scraper)
 - [PromptBase Scraper](promptbase-tutorial/) - [Apify](https://apify.com/crawlerbros/PromptBase)
 - [Property Finder Scraper](propertyfinder-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/propertyfinder-scraper)
 - [Propwire Real Estate Leads Scraper](propwire-leads-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/propwire-leads-scraper)
