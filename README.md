@@ -85,6 +85,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Linkedin Jobs Scraper](linkedin-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-jobs-scraper)
 - [LinkedIn Profile Scraper Pro](linkedin-profile-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-profile-scraper-pro)
 - [Linkedin Profile Scraper](linkedin-profile-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-profile-scraper)
+- [LinkedIn Schools Alumni Scraper](linkedin-schools-alumni-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-schools-alumni-scraper)
 - [LoopNet.com Commercial Real Estate Scraper](loopnet-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/loopnet-scraper)
 - [MercadoLibre Product Scraper](mercadolibre-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mercadolibre-scraper)
 - [MLB Stats Scraper](mlb-stats-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mlb-stats-scraper)
