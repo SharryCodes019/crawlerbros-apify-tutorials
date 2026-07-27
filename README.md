@@ -66,6 +66,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Idealista Scraper](idealista-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/idealista-scraper)
 - [ImportYeti Trade Intelligence Scraper](importyeti-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/importyeti-scraper)
 - [Indeed Jobs Scraper](indeed-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/indeed-jobs-scraper)
+- [InfoJobs Spain Jobs Scraper](infojobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/infojobs-scraper)
 - [Instagram Comment Scraper](instagram-comment-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-comment-scraper)
 - [Instagram Downloader Api](instagram-downloader-api-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-downloader-api)
 - [Instagram Followers & Following Scraper](instagram-follower-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-follower-scraper)
