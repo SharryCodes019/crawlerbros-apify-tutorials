@@ -12,6 +12,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Amazon Bestseller Scraper](amazon-bestseller-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/amazon-bestseller-scraper)
 - [Amazon Reviews Scraper](amazon-reviews-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/amazon-reviews-scraper)
 - [Apartments.com Rental Scraper](apartments-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/apartments-scraper)
+- [App Store Scraper](appstore-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/appstore-scraper)
 - [Bayt.com Middle East Jobs Scraper](bayt-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bayt-jobs-scraper)
 - [Better Business Bureau Scraper](bbb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bbb-scraper)
 - [Behance + Dribbble Scraper](behance-dribbble-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/behance-dribbble-scraper)
