@@ -109,6 +109,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Realtor Scraper](realtor-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/realtor-scraper)
 - [Reddit Comment Scraper Pro](reddit-comment-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-comment-scraper-pro)
 - [Reddit Comment Scraper](reddit-comment-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-comment-scraper)
+- [Reddit Keywords Pro](reddit-keywords-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-keywords-pro)
 - [Reddit Keywords](reddit-keywords-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-keywords)
 - [Reddit MCP Scraper](reddit-mcp-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-mcp-scraper)
 - [Reddit Profile Crawler](reddit-profile-crawler-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-profile-crawler)
