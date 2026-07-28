@@ -94,6 +94,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [MLB Stats Scraper](mlb-stats-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mlb-stats-scraper)
 - [Mobile.de Car Scraper](mobile-de-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mobile-de-scraper)
 - [OLX Global Scraper](olx-global-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/olx-global-scraper)
+- [OpenTable + Resy Scraper](opentable-resy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/opentable-resy-scraper)
 - [OSINT Scraper](osint-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/osint-scraper)
 - [Patreon Scraper](patreon-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/patreon-scraper)
 - [Pinterest Data Extractor](pinterest-data-extractor-tutorial/) - [Apify](https://apify.com/crawlerbros/pinterest-data-extractor)
