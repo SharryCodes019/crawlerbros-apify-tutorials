@@ -133,6 +133,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Thomasnet Suppliers Scraper](thomasnet-suppliers-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/thomasnet-suppliers-scraper)
 - [TikTok Ads Library Scraper Pro](tiktok-ads-library-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-ads-library-scraper-pro)
 - [Tiktok Comments Scraper](tiktok-comments-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-comments-scraper)
+- [Tiktok Downloader Api](tiktok-downloader-api-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-downloader-api)
 - [TikTok LIVE Event Stream Scraper](tiktok-live-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-live-scraper)
 - [Tiktok Mention Scraper](tiktok-mention-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-mention-scraper)
 - [Tiktok Post Scraper](tiktok-post-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-post-scraper)
