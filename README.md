@@ -28,6 +28,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [DoorDash Restaurant Scraper](doordash-restaurant-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/doordash-restaurant-scraper)
 - [Dubizzle Listings Scraper (Unofficial)](dubizzle-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/dubizzle-scraper)
 - [EBAY | Single Item | Store | Store Categories](ebay-item-store-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/ebay-item-store-scraper)
+- [eBay Items Scraper](ebay-items-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/ebay-items-scraper)
 - [Email Verifier](email-verifier-tutorial/) - [Apify](https://apify.com/crawlerbros/email-verifier)
 - [ESPN News](espn-news-tutorial/) - [Apify](https://apify.com/crawlerbros/espn-news)
 - [Etsy Scraper](etsy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/etsy-scraper)
