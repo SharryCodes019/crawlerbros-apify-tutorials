@@ -78,6 +78,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Instagram Hashtag Scraper](instagram-hashtag-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-hashtag-scraper)
 - [Instagram Keyword Scraper](instagram-keyword-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-keyword-scraper)
 - [Instagram Keyword Search Scraper](instagram-keyword-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-keyword-search-scraper)
+- [Instagram Post Scraper](instagram-post-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-post-scraper)
 - [Instagram Profile Scraper](instagram-profile-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-profile-scraper)
 - [Instagram Story Downloader](instagram-story-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-story-downloader)
 - [Instagram Tagged Posts Scraper](instagram-tagged-posts-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-tagged-posts-scraper)
