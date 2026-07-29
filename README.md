@@ -166,6 +166,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Workday Jobs Scraper](workday-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/workday-jobs-scraper)
 - [Y Combinator Companies Scraper](y-combinator-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/y-combinator-scraper)
 - [Yahoo Auctions Japan Scraper](yahoo-auctions-japan-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/yahoo-auctions-japan-scraper)
+- [Yandex Market Scraper](yandex-market-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/yandex-market-scraper)
 - [Yandex Search Scraper](yandex-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/yandex-search-scraper)
 - [Yelp Scraper](yelp-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/yelp-scraper)
 - [Youtube Channel Scraper](youtube-channel-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-channel-scraper)
