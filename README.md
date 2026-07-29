@@ -175,6 +175,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Youtube Playlist Scraper](youtube-playlist-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-playlist-scraper)
 - [Youtube Search Scraper](youtube-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-search-scraper)
 - [Youtube Transcript Scraper](youtube-transcript-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-transcript-scraper)
+- [Youtube Video Details Scraper](youtube-video-details-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-video-details-scraper)
 - [Youtube Video Downloader](youtube-video-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-video-downloader)
 - [Zillow Agent & Premier Agent Directory Scraper](zillow-agent-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/zillow-agent-scraper)
 - [Zillow Foreclosure & Pre-Foreclosure Scraper](zillow-foreclosure-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/zillow-foreclosure-scraper)
