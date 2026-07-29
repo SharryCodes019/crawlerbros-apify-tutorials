@@ -10,6 +10,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Airbnb Scraper](airbnb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/airbnb-scraper)
 - [AliExpress Scraper](aliexpress-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/aliexpress-scraper)
 - [Amazon Bestseller Scraper](amazon-bestseller-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/amazon-bestseller-scraper)
+- [Amazon Product Scraper](amazon-product-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/amazon-product-scraper)
 - [Amazon Reviews Scraper](amazon-reviews-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/amazon-reviews-scraper)
 - [Apartments.com Rental Scraper](apartments-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/apartments-scraper)
 - [App Store Scraper](appstore-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/appstore-scraper)
