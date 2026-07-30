@@ -107,6 +107,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [OpenTable + Resy Scraper](opentable-resy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/opentable-resy-scraper)
 - [OSINT Scraper](osint-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/osint-scraper)
 - [Patreon Scraper](patreon-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/patreon-scraper)
+- [Pexels Stock Media Scraper](pexels-stock-media-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/pexels-stock-media-scraper)
 - [Pinterest Data Extractor](pinterest-data-extractor-tutorial/) - [Apify](https://apify.com/crawlerbros/pinterest-data-extractor)
 - [Pinterest Media Downloader](pinterest-media-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/pinterest-media-downloader)
 - [PitchBook Investors Scraper](pitchbook-investors-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/pitchbook-investors-scraper)
