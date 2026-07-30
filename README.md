@@ -114,6 +114,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [PromptBase Scraper](promptbase-tutorial/) - [Apify](https://apify.com/crawlerbros/PromptBase)
 - [Property Finder Scraper](propertyfinder-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/propertyfinder-scraper)
 - [Propwire Real Estate Leads Scraper](propwire-leads-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/propwire-leads-scraper)
+- [Psychology Today Scraper | Therapist & Psychiatrist Leads](psychology-today-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/psychology-today-scraper)
 - [Quora Scraper](quora-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/quora-scraper)
 - [Quora Search Scraper](quora-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/quora-search-scraper)
 - [Radaris People Search (SkipTrace Lookup)](radaris-people-search-tutorial/) - [Apify](https://apify.com/crawlerbros/radaris-people-search)
