@@ -54,6 +54,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Goodreads Book Scraper](goodreads-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/goodreads-scraper)
 - [Google Ads Scraper](google-ads-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/google-ads-scraper)
 - [Google Earth Scraper](google-earth-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/google-earth-scraper)
+- [Google Flights Scraper](google-flights-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/google-flights-scraper)
 - [Google Images Scraper](google-images-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/google-images-scraper)
 - [Google Keywords Suggest Scraper Pro](google-keywords-suggest-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/google-keywords-suggest-scraper-pro)
 - [Google Maps Email Extractor](google-maps-email-extractor-tutorial/) - [Apify](https://apify.com/crawlerbros/google-maps-email-extractor)
