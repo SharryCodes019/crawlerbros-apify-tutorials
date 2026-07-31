@@ -177,6 +177,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [URL to BibTeX Converter](url-to-bibtex-converter-tutorial/) - [Apify](https://apify.com/crawlerbros/url-to-bibtex-converter)
 - [Wayfair Scraper](wayfair-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/wayfair-scraper)
 - [Website Links Graph Generator](web-link-graph-visualizer-tutorial/) - [Apify](https://apify.com/crawlerbros/web-link-graph-visualizer)
+- [Website Contact Finder](website-contact-finder-tutorial/) - [Apify](https://apify.com/crawlerbros/website-contact-finder)
 - [Website Content Crawler](website-content-crawler-tutorial/) - [Apify](https://apify.com/crawlerbros/website-content-crawler)
 - [Website Image Scraper](website-image-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/website-image-scraper)
 - [Wellfound (AngelList) Jobs Scraper](wellfound-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/wellfound-scraper)
