@@ -170,6 +170,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Twitter Profile Scraper](twitter-profile-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/twitter-profile-scraper)
 - [Twitter Screenshot Generator](twitter-screenshot-generator-tutorial/) - [Apify](https://apify.com/crawlerbros/twitter-screenshot-generator)
 - [Twitter Video Downloader](twitter-video-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/twitter-video-downloader)
+- [Ultimate Free Proxy Scraper](ultimate-proxy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/ultimate-proxy-scraper)
 - [URL to BibTeX Converter](url-to-bibtex-converter-tutorial/) - [Apify](https://apify.com/crawlerbros/url-to-bibtex-converter)
 - [Wayfair Scraper](wayfair-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/wayfair-scraper)
 - [Website Links Graph Generator](web-link-graph-visualizer-tutorial/) - [Apify](https://apify.com/crawlerbros/web-link-graph-visualizer)
