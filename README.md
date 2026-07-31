@@ -139,6 +139,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Resident Advisor (RA) Scraper](resident-advisor-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/resident-advisor-scraper)
 - [Responsive Website Checker](responsive-website-checker-tutorial/) - [Apify](https://apify.com/crawlerbros/responsive-website-checker)
 - [Website Screenshot Generator](screenshot-url-tutorial/) - [Apify](https://apify.com/crawlerbros/screenshot-url)
+- [Seek.com.au Jobs Scraper](seek-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/seek-jobs-scraper)
 - [SEMrush Free Website Stats Scraper](semrush-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/semrush-scraper)
 - [17Track Package Tracking Scraper](seventeen-track-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/seventeen-track-scraper)
 - [Shein Product Scraper](shein-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/shein-scraper)
