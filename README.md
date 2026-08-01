@@ -49,6 +49,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Facebook Photos Scraper](facebook-photos-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-photos-scraper)
 - [Facebook Search Scraper](facebook-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-search-scraper)
 - [FlashScore Live Sports Scraper](flashscore-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flashscore-scraper)
+- [Flickr Scraper](flickr-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flickr-scraper)
 - [Flippa Scraper](flippa-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flippa-scraper)
 - [Foodpanda Restaurant & Menu Scraper](foodpanda-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/foodpanda-scraper)
 - [Fragrantica Perfume Scraper](fragrantica-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fragrantica-scraper)
