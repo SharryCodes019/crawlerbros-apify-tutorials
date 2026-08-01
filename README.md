@@ -55,6 +55,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Flippa Scraper](flippa-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flippa-scraper)
 - [Foodpanda Restaurant & Menu Scraper](foodpanda-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/foodpanda-scraper)
 - [Fragrantica Perfume Scraper](fragrantica-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fragrantica-scraper)
+- [Furnished Finder Scraper](furnished-finder-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/furnished-finder-scraper)
 - [G2.com Scraper](g2-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/g2-scraper)
 - [GetYourGuide Tours & Activities Scraper](getyourguide-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/getyourguide-scraper)
 - [Glassdoor Jobs Scraper](glassdoor-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/glassdoor-jobs-scraper)
