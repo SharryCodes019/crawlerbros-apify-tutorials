@@ -166,6 +166,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Snapchat User Stories Scraper](snapchat-user-stories-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-user-stories-scraper)
 - [Social Media Finder](social-media-finder-tutorial/) - [Apify](https://apify.com/crawlerbros/social-media-finder)
 - [SocialBlade Stats Scraper](socialblade-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/socialblade-scraper)
+- [StockX Scraper](stockx-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/stockx-scraper)
 - [StreetEasy Scraper](streeteasy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/streeteasy-scraper)
 - [Telegram Public Channels Scraper](telegram-public-channels-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/telegram-public-channels-scraper)
 - [Thomasnet Suppliers Scraper](thomasnet-suppliers-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/thomasnet-suppliers-scraper)
