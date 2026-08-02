@@ -151,6 +151,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Redfin Real Estate Scraper](redfin-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/redfin-scraper)
 - [Resident Advisor (RA) Scraper](resident-advisor-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/resident-advisor-scraper)
 - [Responsive Website Checker](responsive-website-checker-tutorial/) - [Apify](https://apify.com/crawlerbros/responsive-website-checker)
+- [RockAuto Parts Scraper](rockauto-parts-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/rockauto-parts-scraper)
 - [Website Screenshot Generator](screenshot-url-tutorial/) - [Apify](https://apify.com/crawlerbros/screenshot-url)
 - [Seek.com.au Jobs Scraper](seek-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/seek-jobs-scraper)
 - [SEMrush Free Website Stats Scraper](semrush-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/semrush-scraper)
