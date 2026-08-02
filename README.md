@@ -191,6 +191,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Ultimate Free Proxy Scraper](ultimate-proxy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/ultimate-proxy-scraper)
 - [Ultimate Website Screenshot / PDF / Video](ultimate-screenshot-tutorial/) - [Apify](https://apify.com/crawlerbros/ultimate-screenshot)
 - [URL to BibTeX Converter](url-to-bibtex-converter-tutorial/) - [Apify](https://apify.com/crawlerbros/url-to-bibtex-converter)
+- [US Land-for-Sale Scraper (LandWatch + LandFlip + LotFlip)](us-land-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/us-land-scraper)
 - [US Stock Price Scraper](us-stock-price-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/us-stock-price-scraper)
 - [Wayfair Scraper](wayfair-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/wayfair-scraper)
 - [Website Links Graph Generator](web-link-graph-visualizer-tutorial/) - [Apify](https://apify.com/crawlerbros/web-link-graph-visualizer)
