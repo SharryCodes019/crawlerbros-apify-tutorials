@@ -143,6 +143,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Quora Scraper](quora-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/quora-scraper)
 - [Quora Search Scraper](quora-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/quora-search-scraper)
 - [Radaris People Search (SkipTrace Lookup)](radaris-people-search-tutorial/) - [Apify](https://apify.com/crawlerbros/radaris-people-search)
+- [RAG Web Browser](rag-web-browser-tutorial/) - [Apify](https://apify.com/crawlerbros/rag-web-browser)
 - [Realtor Scraper](realtor-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/realtor-scraper)
 - [Reddit Comment Scraper Pro](reddit-comment-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-comment-scraper-pro)
 - [Reddit Comment Scraper](reddit-comment-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-comment-scraper)
