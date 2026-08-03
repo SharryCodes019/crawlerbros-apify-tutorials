@@ -155,6 +155,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Reddit Video Downloader](reddit-video-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/reddit-video-downloader)
 - [Redfin Real Estate Scraper](redfin-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/redfin-scraper)
 - [Remote OK Scraper](remote-ok-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/remote-ok-scraper)
+- [ResearchGate Academic Scraper](researchgate-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/researchgate-scraper)
 - [Resident Advisor (RA) Scraper](resident-advisor-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/resident-advisor-scraper)
 - [Responsive Website Checker](responsive-website-checker-tutorial/) - [Apify](https://apify.com/crawlerbros/responsive-website-checker)
 - [Rightmove Property Scraper](rightmove-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/rightmove-scraper)
