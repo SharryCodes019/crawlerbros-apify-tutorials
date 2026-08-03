@@ -32,6 +32,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Company Domain & Social Links Finder](company-domain-tutorial/) - [Apify](https://apify.com/crawlerbros/company-domain)
 - [Contact Info Scraper Pro](contact-info-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/contact-info-scraper-pro)
 - [Crexi Real Estate Scraper](crexi-real-estate-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/crexi-real-estate-scraper)
+- [Crunchbase News Scraper](crunchbase-news-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/crunchbase-news-scraper)
 - [Darkweb Scraper](darkweb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/darkweb-scraper)
 - [Dentist & Healthcare Provider Lead Scraper](dentist-lead-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/dentist-lead-scraper)
 - [DeviantArt Scraper](deviantart-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/deviantart-scraper)
