@@ -124,6 +124,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [MLB Baseball Stats Scraper](mlb-baseball-stats-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mlb-baseball-stats-scraper)
 - [MLB Stats Scraper](mlb-stats-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mlb-stats-scraper)
 - [Mobile.de Car Scraper](mobile-de-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mobile-de-scraper)
+- [Naukri Scraper](naukri-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/naukri-scraper)
 - [NHS Jobs Scraper](nhs-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/nhs-jobs-scraper)
 - [Noon.com E-Commerce Scraper](noon-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/noon-scraper)
 - [Odysee Video Scraper](odysee-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/odysee-scraper)
