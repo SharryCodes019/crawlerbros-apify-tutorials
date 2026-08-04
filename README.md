@@ -85,6 +85,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Gumtree Scraper](gumtree-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/gumtree-scraper)
 - [Hiring Cafe Jobs Scraper](hiring-cafe-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/hiring-cafe-scraper)
 - [Home Depot Product Scraper](homedepot-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/homedepot-scraper)
+- [HotFrog Scraper](hotfrog-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/hotfrog-scraper)
 - [Idealista Scraper](idealista-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/idealista-scraper)
 - [Immobiliare.it Listing Scraper](immobiliare-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/immobiliare-scraper)
 - [Immoweb Belgian Real Estate Scraper](immoweb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/immoweb-scraper)
