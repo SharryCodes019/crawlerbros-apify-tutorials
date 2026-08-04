@@ -89,6 +89,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [HotFrog Scraper](hotfrog-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/hotfrog-scraper)
 - [Idealista Scraper](idealista-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/idealista-scraper)
 - [Immobiliare.it Listing Scraper](immobiliare-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/immobiliare-scraper)
+- [ImmobilienScout24 Real Estate Scraper](immoscout24-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/immoscout24-scraper)
 - [Immoweb Belgian Real Estate Scraper](immoweb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/immoweb-scraper)
 - [ImportYeti Trade Intelligence Scraper](importyeti-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/importyeti-scraper)
 - [Indeed Jobs Scraper](indeed-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/indeed-jobs-scraper)
