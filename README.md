@@ -120,6 +120,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Medium Article Scraper](medium-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/medium-scraper)
 - [Meetup + Lu.ma Events Scraper](meetup-luma-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/meetup-luma-scraper)
 - [MercadoLibre Product Scraper](mercadolibre-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mercadolibre-scraper)
+- [Mercari + Poshmark + Depop Scraper](mercari-poshmark-depop-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mercari-poshmark-depop-scraper)
 - [MLB Baseball Stats Scraper](mlb-baseball-stats-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mlb-baseball-stats-scraper)
 - [MLB Stats Scraper](mlb-stats-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mlb-stats-scraper)
 - [Mobile.de Car Scraper](mobile-de-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/mobile-de-scraper)
