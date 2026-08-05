@@ -20,6 +20,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [App Store Scraper](appstore-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/appstore-scraper)
 - [Arbeitsagentur (German Job Board) Scraper](arbeitsagentur-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/arbeitsagentur-scraper)
 - [Bayt.com Middle East Jobs Scraper](bayt-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bayt-jobs-scraper)
+- [Bazos.cz / Bazos.sk / Bazos.at / Bazos.pl Scraper](bazos-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bazos-scraper)
 - [Better Business Bureau Scraper](bbb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bbb-scraper)
 - [Behance + Dribbble Scraper](behance-dribbble-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/behance-dribbble-scraper)
 - [Best Buy Scraper](bestbuy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bestbuy-scraper)
