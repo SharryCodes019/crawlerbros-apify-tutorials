@@ -192,6 +192,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [SocialBlade Stats Scraper](socialblade-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/socialblade-scraper)
 - [StockX Scraper](stockx-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/stockx-scraper)
 - [StreetEasy Scraper](streeteasy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/streeteasy-scraper)
+- [Teachers Pay Teachers Store & Product Scraper](teachers-pay-teachers-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/teachers-pay-teachers-scraper)
 - [Telegram Public Channels Scraper](telegram-public-channels-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/telegram-public-channels-scraper)
 - [10times.com Events Scraper](tentimes-events-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tentimes-events-scraper)
 - [Thomasnet Suppliers Scraper](thomasnet-suppliers-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/thomasnet-suppliers-scraper)
