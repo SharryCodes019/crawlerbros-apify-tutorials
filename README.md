@@ -201,6 +201,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [TikTok LIVE Event Stream Scraper](tiktok-live-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-live-scraper)
 - [Tiktok Mention Scraper](tiktok-mention-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-mention-scraper)
 - [TikTok Music/Sound Scraper](tiktok-music-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-music-scraper)
+- [TikTok Playlist Scraper](tiktok-playlist-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-playlist-scraper)
 - [Tiktok Post Scraper](tiktok-post-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-post-scraper)
 - [Tiktok Profile Mention Scraper](tiktok-profile-mention-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-profile-mention-scraper)
 - [TikTok Transcript Scraper](tiktok-transcript-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-transcript-scraper)
