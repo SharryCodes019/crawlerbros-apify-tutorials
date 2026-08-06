@@ -98,6 +98,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Immoweb Belgian Real Estate Scraper](immoweb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/immoweb-scraper)
 - [ImportYeti Trade Intelligence Scraper](importyeti-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/importyeti-scraper)
 - [Indeed Jobs Scraper](indeed-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/indeed-jobs-scraper)
+- [Indeed Keyword Scraper](indeed-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/indeed-scraper)
 - [InfoJobs Spain Jobs Scraper](infojobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/infojobs-scraper)
 - [Instagram Comment Scraper](instagram-comment-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-comment-scraper)
 - [Instagram Downloader Api](instagram-downloader-api-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-downloader-api)
