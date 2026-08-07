@@ -63,6 +63,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [FincaRaiz Colombia Real Estate Scraper](fincaraiz-colombia-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fincaraiz-colombia-scraper)
 - [FlashScore Live Sports Scraper](flashscore-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flashscore-scraper)
 - [Flickr Scraper](flickr-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flickr-scraper)
+- [Flight Award Mileage Chart Scraper](flight-award-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/flight-award-scraper-pro)
 - [Flippa Scraper](flippa-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flippa-scraper)
 - [Foodpanda Restaurant & Menu Scraper](foodpanda-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/foodpanda-scraper)
 - [Fragrantica Perfume Scraper](fragrantica-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fragrantica-scraper)
