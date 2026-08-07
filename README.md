@@ -143,6 +143,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [OLX Global Scraper](olx-global-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/olx-global-scraper)
 - [OpenTable + Resy Scraper](opentable-resy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/opentable-resy-scraper)
 - [OSINT Scraper](osint-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/osint-scraper)
+- [French Business Directory Leads Scraper](pagesjaunes-leads-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/pagesjaunes-leads-scraper)
 - [Patreon Scraper](patreon-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/patreon-scraper)
 - [PeoplePerHour Jobs & Freelancers Scraper](peopleperhour-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/peopleperhour-scraper)
 - [Pexels Stock Media Scraper](pexels-stock-media-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/pexels-stock-media-scraper)
