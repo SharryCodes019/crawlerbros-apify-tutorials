@@ -53,6 +53,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Eventbrite Events Scraper](eventbrite-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/eventbrite-scraper)
 - [Expedia Hotels Scraper](expedia-hotels-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/expedia-hotels-scraper)
 - [Facebook Ads Library Scraper](facebook-ads-library-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-ads-library-scraper)
+- [Facebook Ads Scraper Pro](facebook-ads-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-ads-scraper-pro)
 - [Facebook Comments Scraper](facebook-comments-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-comments-scraper)
 - [Facebook Events Scraper](facebook-events-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-events-scraper)
 - [Facebook Marketplace Scraper](facebook-marketplace-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-marketplace-scraper)
