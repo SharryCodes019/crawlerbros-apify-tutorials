@@ -235,6 +235,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [US Land-for-Sale Scraper (LandWatch + LandFlip + LotFlip)](us-land-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/us-land-scraper)
 - [US Stock Price Scraper](us-stock-price-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/us-stock-price-scraper)
 - [VesselFinder Scraper](vessel-finder-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/vessel-finder-scraper)
+- [Vrbo Vacation Rentals](vrbo-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/vrbo-scraper)
 - [Wayback Machine Search](wayback-machine-search-tutorial/) - [Apify](https://apify.com/crawlerbros/wayback-machine-search)
 - [Wayfair Scraper](wayfair-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/wayfair-scraper)
 - [Website Links Graph Generator](web-link-graph-visualizer-tutorial/) - [Apify](https://apify.com/crawlerbros/web-link-graph-visualizer)
