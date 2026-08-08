@@ -222,6 +222,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Traffic Generator](traffic-generator-tutorial/) - [Apify](https://apify.com/crawlerbros/traffic-generator)
 - [Tripadvisor Reviews Scraper](tripadvisor-reviews-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tripadvisor-reviews-scraper)
 - [Tripadvisor Scraper](tripadvisor-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tripadvisor-scraper)
+- [Trip.com Hotels Scraper](tripdotcom-hotels-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tripdotcom-hotels-scraper)
 - [Trustpilot Review Scraper](trustpilot-review-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/trustpilot-review-scraper)
 - [Tumblr Posts Scraper](tumblr-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tumblr-scraper)
 - [Twitch Scraper](twitch-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/twitch-scraper)
