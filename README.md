@@ -66,6 +66,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Flight Award Mileage Chart Scraper](flight-award-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/flight-award-scraper-pro)
 - [Flippa Scraper](flippa-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flippa-scraper)
 - [Foodpanda Restaurant & Menu Scraper](foodpanda-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/foodpanda-scraper)
+- [Forebet Football Predictions Scraper](forebet-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/forebet-scraper)
 - [Fragrantica Perfume Scraper](fragrantica-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fragrantica-scraper)
 - [Fuel Prices Scraper](fuel-prices-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fuel-prices-scraper)
 - [Furnished Finder Scraper](furnished-finder-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/furnished-finder-scraper)
