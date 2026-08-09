@@ -41,6 +41,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Darkweb Scraper](darkweb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/darkweb-scraper)
 - [Dentist & Healthcare Provider Lead Scraper](dentist-lead-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/dentist-lead-scraper)
 - [DeviantArt Scraper](deviantart-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/deviantart-scraper)
+- [Dice.com Tech Jobs Scraper](dice-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/dice-jobs-scraper)
 - [Domain.com.au Real Estate Scraper](domain-au-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/domain-au-scraper)
 - [DoorDash Restaurant Scraper](doordash-restaurant-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/doordash-restaurant-scraper)
 - [Dubizzle Listings Scraper (Unofficial)](dubizzle-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/dubizzle-scraper)
