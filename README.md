@@ -132,6 +132,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [LinkedIn Hashtag Posts Scraper](linkedin-hashtag-posts-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-hashtag-posts-scraper)
 - [Linkedin Jobs Scraper](linkedin-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-jobs-scraper)
 - [LinkedIn People Search Scraper](linkedin-people-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-people-search-scraper)
+- [LinkedIn Post Search Scraper](linkedin-post-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-post-search-scraper)
 - [LinkedIn Profile Scraper Pro](linkedin-profile-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-profile-scraper-pro)
 - [Linkedin Profile Scraper](linkedin-profile-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-profile-scraper)
 - [LinkedIn Profile Scraper Ultra](linkedin-profile-scraper-ultra-tutorial/) - [Apify](https://apify.com/crawlerbros/linkedin-profile-scraper-ultra)
