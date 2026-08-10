@@ -205,6 +205,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Sitemap URL Extractor](sitemap-url-extractor-tutorial/) - [Apify](https://apify.com/crawlerbros/sitemap-url-extractor)
 - [Snapchat Hashtag Scraper](snapchat-hashtag-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-hashtag-scraper)
 - [Snapchat Profile Scraper](snapchat-profile-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-profile-scraper)
+- [Snapchat Search Scraper](snapchat-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-search-scraper)
 - [Snapchat Spotlight Video Downloader](snapchat-spotlight-video-downloader-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-spotlight-video-downloader)
 - [Snapchat User Stories Scraper](snapchat-user-stories-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-user-stories-scraper)
 - [Social Media Finder](social-media-finder-tutorial/) - [Apify](https://apify.com/crawlerbros/social-media-finder)
