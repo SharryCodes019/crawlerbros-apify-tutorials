@@ -72,6 +72,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Forebet Football Predictions Scraper](forebet-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/forebet-scraper)
 - [Fragrantica Perfume Scraper](fragrantica-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fragrantica-scraper)
 - [Fuel Prices Scraper](fuel-prices-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fuel-prices-scraper)
+- [Funda.nl Real Estate](funda-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/funda-scraper)
 - [Furnished Finder Scraper](furnished-finder-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/furnished-finder-scraper)
 - [G2.com Scraper](g2-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/g2-scraper)
 - [GetYourGuide Tours & Activities Scraper](getyourguide-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/getyourguide-scraper)
