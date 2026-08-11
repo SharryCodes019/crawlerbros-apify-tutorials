@@ -200,6 +200,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Sam's Club Product Scraper](samsclub-product-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/samsclub-product-scraper)
 - [Website Screenshot Generator](screenshot-url-tutorial/) - [Apify](https://apify.com/crawlerbros/screenshot-url)
 - [Seek.com.au Jobs Scraper](seek-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/seek-jobs-scraper)
+- [SeLoger French Real Estate Scraper](seloger-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/seloger-scraper)
 - [SEMrush Free Website Stats Scraper](semrush-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/semrush-scraper)
 - [17Track Package Tracking Scraper](seventeen-track-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/seventeen-track-scraper)
 - [Shein Product Scraper](shein-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/shein-scraper)
