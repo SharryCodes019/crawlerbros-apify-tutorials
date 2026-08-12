@@ -204,6 +204,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [RockAuto Parts Scraper](rockauto-parts-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/rockauto-parts-scraper)
 - [Sam's Club Product Scraper](samsclub-product-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/samsclub-product-scraper)
 - [Website Screenshot Generator](screenshot-url-tutorial/) - [Apify](https://apify.com/crawlerbros/screenshot-url)
+- [SEC EDGAR Filings Scraper](sec-edgar-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/sec-edgar-scraper)
 - [Seek.com.au Jobs Scraper](seek-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/seek-jobs-scraper)
 - [SeLoger French Real Estate Scraper](seloger-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/seloger-scraper)
 - [SEMrush Free Website Stats Scraper](semrush-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/semrush-scraper)
