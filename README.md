@@ -283,6 +283,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Yandex Search Scraper](yandex-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/yandex-search-scraper)
 - [Yelp Scraper Pro](yelp-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/yelp-scraper-pro)
 - [Yelp Scraper](yelp-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/yelp-scraper)
+- [Youtube Channel Scraper Fast](youtube-channel-scraper-fast-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-channel-scraper-fast)
 - [Youtube Channel Scraper](youtube-channel-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-channel-scraper)
 - [Youtube Comment Scraper](youtube-comment-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-comment-scraper)
 - [YouTube Email Scraper](youtube-email-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/youtube-email-scraper)
