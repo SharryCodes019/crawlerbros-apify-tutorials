@@ -30,6 +30,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Binance Price Scraper](binance-price-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/binance-price-scraper)
 - [Bing Search Scraper](bing-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bing-search-scraper)
 - [BizBuySell Scraper](bizbuysell-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bizbuysell-scraper)
+- [BizQuest Scraper](bizquest-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bizquest-scraper)
 - [Booking.com Hotel Scraper](booking-hotel-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/booking-hotel-scraper)
 - [Capterra Software Scraper](capterra-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/capterra-scraper)
 - [CarGurus Car Listings Scraper](cargurus-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/cargurus-scraper)
