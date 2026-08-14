@@ -249,6 +249,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Tripadvisor Reviews Scraper](tripadvisor-reviews-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tripadvisor-reviews-scraper)
 - [Tripadvisor Scraper](tripadvisor-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tripadvisor-scraper)
 - [Trip.com Hotels Scraper](tripdotcom-hotels-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tripdotcom-hotels-scraper)
+- [Trolley Grocery Price Comparison Scraper](trolley-grocery-price-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/trolley-grocery-price-scraper)
 - [Trulia Property Scraper](trulia-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/trulia-scraper)
 - [Trustpilot Review Scraper](trustpilot-review-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/trustpilot-review-scraper)
 - [Tumblr Posts Scraper](tumblr-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tumblr-scraper)
