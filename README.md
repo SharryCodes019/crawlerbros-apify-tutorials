@@ -28,6 +28,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Best Buy Scraper](bestbuy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bestbuy-scraper)
 - [BiggerPockets Scraper](bigger-pockets-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bigger-pockets-scraper)
 - [Binance Price Scraper](binance-price-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/binance-price-scraper)
+- [Bing Maps Business Listings Scraper](bing-maps-business-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bing-maps-business-scraper)
 - [Bing Search Scraper](bing-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bing-search-scraper)
 - [BizBuySell Scraper](bizbuysell-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bizbuysell-scraper)
 - [BizQuest Scraper](bizquest-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bizquest-scraper)
