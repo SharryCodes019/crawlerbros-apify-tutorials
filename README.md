@@ -106,6 +106,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Google Shopping Scraper](google-shopping-insights-tutorial/) - [Apify](https://apify.com/crawlerbros/google-shopping-insights)
 - [Grubhub Restaurant Scraper](grubhub-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/grubhub-scraper)
 - [Gumtree Scraper](gumtree-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/gumtree-scraper)
+- [Himalayas Remote Jobs Scraper](himalayas-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/himalayas-jobs-scraper)
 - [Hiring Cafe Jobs Scraper](hiring-cafe-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/hiring-cafe-scraper)
 - [Home Depot Product Scraper](homedepot-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/homedepot-scraper)
 - [HotFrog Scraper](hotfrog-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/hotfrog-scraper)
