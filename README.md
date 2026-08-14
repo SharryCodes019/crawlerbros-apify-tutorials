@@ -130,6 +130,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Instagram Tagged Posts Scraper](instagram-tagged-posts-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-tagged-posts-scraper)
 - [Instagram Transcript Scraper](instagram-transcript-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/instagram-transcript-scraper)
 - [Kayak Flights, Hotels & Deals Scraper](kayak-flight-hotel-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/kayak-flight-hotel-scraper)
+- [Kick Channel Scraper](kick-channel-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/kick-channel-scraper)
 - [Kickstarter Project Scraper](kickstarter-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/kickstarter-scraper)
 - [Kleinanzeigen Scraper](kleinanzeigen-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/kleinanzeigen-scraper)
 - [Klook Experiences & Activities Scraper](klook-experiences-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/klook-experiences-scraper)
