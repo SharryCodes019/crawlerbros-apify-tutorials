@@ -236,6 +236,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [TikTok Ads Library Scraper Pro](tiktok-ads-library-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-ads-library-scraper-pro)
 - [Tiktok Comments Scraper](tiktok-comments-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-comments-scraper)
 - [Tiktok Downloader Api](tiktok-downloader-api-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-downloader-api)
+- [TikTok Followers & Following Scraper](tiktok-followers-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-followers-scraper)
 - [Tiktok Hashtag Scraper](tiktok-hashtag-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-hashtag-scraper)
 - [TikTok Hashtag Trends Scraper](tiktok-hashtag-trends-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-hashtag-trends-scraper)
 - [TikTok LIVE Event Stream Scraper](tiktok-live-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/tiktok-live-scraper)
