@@ -56,6 +56,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Email Verifier](email-verifier-tutorial/) - [Apify](https://apify.com/crawlerbros/email-verifier)
 - [Envato Elements Asset Scraper](envato-elements-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/envato-elements-scraper)
 - [ESPN News](espn-news-tutorial/) - [Apify](https://apify.com/crawlerbros/espn-news)
+- [ESPN NFL Stats Scraper](espn-nfl-stats-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/espn-nfl-stats-scraper)
 - [ESPN Rosters & Player Stats](espn-rosters-player-stats-tutorial/) - [Apify](https://apify.com/crawlerbros/espn-rosters-player-stats)
 - [Etsy Scraper](etsy-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/etsy-scraper)
 - [Eventbrite Events Scraper](eventbrite-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/eventbrite-scraper)
