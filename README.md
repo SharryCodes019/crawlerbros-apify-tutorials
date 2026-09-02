@@ -75,6 +75,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [FlashScore Live Sports Scraper](flashscore-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flashscore-scraper)
 - [Flickr Scraper](flickr-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flickr-scraper)
 - [Flight Award Mileage Chart Scraper](flight-award-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/flight-award-scraper-pro)
+- [Flipp Weekly Deals & Grocery Ad Scraper](flipp-weekly-deals-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flipp-weekly-deals-scraper)
 - [Flippa Scraper](flippa-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flippa-scraper)
 - [Foodpanda Restaurant & Menu Scraper](foodpanda-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/foodpanda-scraper)
 - [Football Stats Scraper](football-stats-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/football-stats-scraper)
