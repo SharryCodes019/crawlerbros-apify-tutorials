@@ -69,7 +69,6 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Facebook Pages Scraper](facebook-pages-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-pages-scraper)
 - [Facebook Photos Scraper](facebook-photos-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-photos-scraper)
 - [Facebook Search Scraper](facebook-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/facebook-search-scraper)
-- [FBref Football Statistics Scraper](fbref-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fbref-scraper)
 - [FincaRaiz Colombia Real Estate Scraper](fincaraiz-colombia-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/fincaraiz-colombia-scraper)
 - [FlashScore Live Sports Scraper](flashscore-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flashscore-scraper)
 - [Flickr Scraper](flickr-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/flickr-scraper)
