@@ -9,6 +9,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Acquire.com Startup Marketplace Scraper](acquire-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/acquire-scraper)
 - [Ahrefs Free Website Stats Scraper](ahrefs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/ahrefs-scraper)
 - [Airbnb Scraper](airbnb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/airbnb-scraper)
+- [Aldi US Scraper](aldi-us-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/aldi-us-scraper)
 - [AliExpress Scraper](aliexpress-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/aliexpress-scraper)
 - [AllTrails Scraper](alltrails-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/alltrails-scraper)
 - [Amazon Bestseller Scraper](amazon-bestseller-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/amazon-bestseller-scraper)
