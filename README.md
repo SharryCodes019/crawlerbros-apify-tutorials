@@ -110,6 +110,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Google Scholar Scraper](google-scholar-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/google-scholar-scraper)
 - [Google Search Results Scraper](google-search-results-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/google-search-results-scraper)
 - [Google Shopping Scraper](google-shopping-insights-tutorial/) - [Apify](https://apify.com/crawlerbros/google-shopping-insights)
+- [Groupon Coupons Scraper](groupon-coupons-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/groupon-coupons-scraper)
 - [Grubhub Restaurant Scraper](grubhub-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/grubhub-scraper)
 - [Gumtree Scraper](gumtree-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/gumtree-scraper)
 - [Himalayas Remote Jobs Scraper](himalayas-jobs-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/himalayas-jobs-scraper)
