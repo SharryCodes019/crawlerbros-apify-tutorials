@@ -279,6 +279,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [VesselFinder Scraper](vessel-finder-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/vessel-finder-scraper)
 - [Vinted Scraper](vinted-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/vinted-scraper)
 - [Vrbo Vacation Rentals](vrbo-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/vrbo-scraper)
+- [Wattpad Story Scraper](wattpad-story-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/wattpad-story-scraper)
 - [Wayback Machine Search](wayback-machine-search-tutorial/) - [Apify](https://apify.com/crawlerbros/wayback-machine-search)
 - [Wayfair Scraper](wayfair-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/wayfair-scraper)
 - [Website Links Graph Generator](web-link-graph-visualizer-tutorial/) - [Apify](https://apify.com/crawlerbros/web-link-graph-visualizer)
