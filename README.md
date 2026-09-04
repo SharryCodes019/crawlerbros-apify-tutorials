@@ -224,6 +224,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [17Track Package Tracking Scraper](seventeen-track-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/seventeen-track-scraper)
 - [Shein Product Scraper](shein-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/shein-scraper)
 - [Sherlock Scraper](sherlock-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/sherlock-scraper)
+- [Shopee Scraper](shopee-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/shopee-scraper)
 - [Shopify Scraper](shopify-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/shopify-scraper)
 - [Signature Generator](signature-generator-tutorial/) - [Apify](https://apify.com/crawlerbros/signature-generator)
 - [Similarweb Scraper](similarweb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/similarweb-scraper)
