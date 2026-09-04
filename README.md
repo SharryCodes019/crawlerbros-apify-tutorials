@@ -35,6 +35,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [BizQuest Scraper](bizquest-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bizquest-scraper)
 - [Bluesky Scraper](bluesky-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/bluesky-scraper)
 - [Booking.com Hotel Scraper](booking-hotel-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/booking-hotel-scraper)
+- [Boxing Stats Scraper](boxing-stats-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/boxing-stats-scraper)
 - [Capterra Software Scraper](capterra-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/capterra-scraper)
 - [CarGurus Car Listings Scraper](cargurus-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/cargurus-scraper)
 - [Chrome Extensions Scraper Pro](chrome-extensions-scraper-pro-tutorial/) - [Apify](https://apify.com/crawlerbros/chrome-extensions-scraper-pro)
