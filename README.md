@@ -144,6 +144,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Kickstarter Project Scraper](kickstarter-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/kickstarter-scraper)
 - [Kleinanzeigen Scraper](kleinanzeigen-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/kleinanzeigen-scraper)
 - [Klook Experiences & Activities Scraper](klook-experiences-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/klook-experiences-scraper)
+- [Kworb Music Charts Scraper](kworb-music-charts-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/kworb-music-charts-scraper)
 - [Lead Finder](lead-finder-tutorial/) - [Apify](https://apify.com/crawlerbros/lead-finder)
 - [Leboncoin Classifieds Scraper](leboncoin-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/leboncoin-scraper)
 - [Letterboxd Scraper](letterboxd-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/letterboxd-scraper)
