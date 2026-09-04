@@ -229,6 +229,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Signature Generator](signature-generator-tutorial/) - [Apify](https://apify.com/crawlerbros/signature-generator)
 - [Similarweb Scraper](similarweb-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/similarweb-scraper)
 - [Sitemap URL Extractor](sitemap-url-extractor-tutorial/) - [Apify](https://apify.com/crawlerbros/sitemap-url-extractor)
+- [Skiplagged Flight Search Scraper](skiplagged-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/skiplagged-scraper)
 - [Snapchat Hashtag Scraper](snapchat-hashtag-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-hashtag-scraper)
 - [Snapchat Profile Scraper](snapchat-profile-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-profile-scraper)
 - [Snapchat Search Scraper](snapchat-search-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/snapchat-search-scraper)
