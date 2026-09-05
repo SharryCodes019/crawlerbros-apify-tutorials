@@ -99,6 +99,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Google Maps Area Scanner](google-maps-area-scanner-tutorial/) - [Apify](https://apify.com/crawlerbros/google-maps-area-scanner)
 - [Google Maps Directions Scraper](google-maps-directions-tutorial/) - [Apify](https://apify.com/crawlerbros/google-maps-directions)
 - [Google Maps Email Extractor](google-maps-email-extractor-tutorial/) - [Apify](https://apify.com/crawlerbros/google-maps-email-extractor)
+- [Google Maps Geocoding Scraper](google-maps-geocoding-tutorial/) - [Apify](https://apify.com/crawlerbros/google-maps-geocoding)
 - [Google Maps Leads Scraper](google-maps-leads-tutorial/) - [Apify](https://apify.com/crawlerbros/google-maps-leads)
 - [Google Maps MCP](google-maps-mcp-tutorial/) - [Apify](https://apify.com/crawlerbros/google-maps-mcp)
 - [Google Maps Menu Scraper](google-maps-menu-tutorial/) - [Apify](https://apify.com/crawlerbros/google-maps-menu)
