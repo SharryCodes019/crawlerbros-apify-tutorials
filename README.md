@@ -294,6 +294,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Website Contact Finder](website-contact-finder-tutorial/) - [Apify](https://apify.com/crawlerbros/website-contact-finder)
 - [Website Content Crawler](website-content-crawler-tutorial/) - [Apify](https://apify.com/crawlerbros/website-content-crawler)
 - [Website Image Scraper](website-image-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/website-image-scraper)
+- [Weedmaps Scraper — Cannabis Dispensaries & Products](weedmaps-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/weedmaps-scraper)
 - [Wellfound (AngelList) Jobs Scraper](wellfound-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/wellfound-scraper)
 - [We Work Remotely Jobs Scraper](weworkremotely-job-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/weworkremotely-job-scraper)
 - [Whop.com Scraper](whop-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/whop-scraper)
