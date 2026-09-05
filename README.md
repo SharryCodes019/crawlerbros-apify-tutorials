@@ -118,6 +118,7 @@ This repository collects CrawlerBros Apify actor tutorials as one folder per act
 - [Hiring Cafe Jobs Scraper](hiring-cafe-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/hiring-cafe-scraper)
 - [Home Depot Product Scraper](homedepot-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/homedepot-scraper)
 - [HotFrog Scraper](hotfrog-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/hotfrog-scraper)
+- [Houzz Scraper](houzz-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/houzz-scraper)
 - [IAAI Salvage Vehicle Auctions Scraper](iaai-salvage-vehicle-auctions-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/iaai-salvage-vehicle-auctions-scraper)
 - [Idealista Scraper](idealista-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/idealista-scraper)
 - [Immobiliare.it Listing Scraper](immobiliare-scraper-tutorial/) - [Apify](https://apify.com/crawlerbros/immobiliare-scraper)
